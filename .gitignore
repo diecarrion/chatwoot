@@ -96,6 +96,9 @@ yarn-debug.log*
 .cursor
 CLAUDE.local.md
 
+# Deploy instructions (contains sensitive project info)
+DEPLOY.md
+
 # Histoire deployment
 .netlify
 .histoire
