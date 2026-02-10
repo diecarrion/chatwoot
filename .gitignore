@@ -94,6 +94,7 @@ yarn-debug.log*
 .vscode
 .claude/settings.local.json
 .cursor
+.codex/
 CLAUDE.local.md
 
 # Deploy instructions (contains sensitive project info)
@@ -104,3 +105,4 @@ DEPLOY.md
 .histoire
 .pnpm-store/*
 local/
+Procfile.worktree
